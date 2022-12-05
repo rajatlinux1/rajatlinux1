@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Rajat Saini</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<img align="right" alt="Coding", width='400' src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<p align="right">
+	<img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" alt="Logo" width="400">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatlinux1&label=Profile%20views&color=0e75b6&style=flat" alt="rajatlinux1" /> </p>
 
