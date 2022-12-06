@@ -1,4 +1,5 @@
-![MasterHead](https://wallpaperaccess.com/full/1294293.jpg)
+<!-- ![MasterHead](https://wallpaperaccess.com/full/1294293.jpg) -->
+![MasterHead](https://www.digitaledgetech.in/images/Banner_03.gif)
 # 💫 About Me:
 🔭 I’m currently working on Django and Flask<br>🤝 I’m looking for help with Data Science and ML<br>🌱 I’m currently learning AWS, Nginx, and Falcon<br>💬 Ask me about Python and Django<br>📄 Know about my experiences https://docs.google.com/document/d/e/2PACX-1vQ_VAJJu65YWv0dRTYl4vEvzf5iBrdkNqc4gm5exubRpX6nqHx80idXcxl33IE-XObfC86ikEuhRFrw/pub
 
