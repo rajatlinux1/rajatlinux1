@@ -9,12 +9,12 @@
 
 ```python
 class RajatSaini:
-    role       = "Full Stack Developer"
-    focus      = ["Django", "Flask", "FastAPI", "REST APIs"]
-    cloud      = ["AWS", "Docker", "Nginx"]
-    passion    = "Building scalable backend systems"
-    location   = "India 🇮🇳"
-    status     = "Open to collaboration"
+    role = "Full Stack Developer"
+    focus = ["Django", "Flask", "FastAPI", "REST APIs"]
+    cloud = ["AWS", "Docker", "Nginx"]
+    passion = "Building scalable backend systems"
+    location = "India 🇮🇳"
+    status = "Open to collaboration"
 ```
 
 </div>
